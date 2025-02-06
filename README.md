@@ -19,7 +19,7 @@ To run the **Supermarket Shopping Optimization App**, follow these steps:
 First, clone or download this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/supermarket-shopping-optimization.git
+git clone https://github.com/its-Ayushi/supermarket-shopping-optimization.git
 ```
 
 Alternatively, you can download the ZIP file from the repository's GitHub page and extract it to a folder on your machine.
