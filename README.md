@@ -1,4 +1,4 @@
-# Installation and Overview
+# Shopping Optimization using Knapsack
 
 ## Overview
 
